@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "2946",
+      "email": "o@gmail.com",
+      "password": "Varsh@2005",
+      "role": "User"
+    },
+    {
+      "id": "577e",
+      "email": "roshini@gmail.com",
+      "password": "Roshini@2005",
+      "role": "Admin"
+    },
+    {
+      "id": "f117",
+      "email": "ghj",
+      "password": "33",
+      "role": ""
+    }
+  ],
+  "events": [
+    {
+      "id": "b171",
+      "type": "fg",
+      "desc": "fvgbn",
+      "count": "fgh",
+      "packages": "fg",
+      "charges": "fgh"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+#imagecon{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+#it{
+    display: flex;
+    align-items: center;
+}
+.imag6
+{
+    background-image: url("https://www.slideteam.net/media/catalog/product/cache/1280x720/c/h/charity_fundraising_powerpoint_ppt_template_bundles_slide01.jpg") ;
+    
+    background-size:cover;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height: 200vh
+}
+.sri
+{
+    background-image: url("https://files.123freevectors.com/wp-content/original/142925-cool-purple-business-background-template.jpg") ;
+    background-size:cover;
+    height:200px;
+    background-color:rgb(24, 24, 24);
+}

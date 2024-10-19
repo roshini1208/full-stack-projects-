@@ -1,0 +1,43 @@
+.payment-history-container {
+    align-items: center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #750064af;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    gap: 2;
+}
+  
+  .payment-history-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #000000;
+  gap: 2;
+}
+  
+.payment-history-list {
+   gap: 2;
+    background-color: #b8b8b8;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .payment-history-item {
+      gap: 2;
+      padding: 15px;
+      margin-bottom: 10px;
+      border-bottom: 1px solid #000000;
+    }
+  
+    .payment-history-item p {
+        margin: 5px 0;
+        gap: 2;
+    }
+    
+    .payment-history-item strong {
+      gap: 2;
+    color: #101010;
+  }
+  

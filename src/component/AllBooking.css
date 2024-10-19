@@ -1,0 +1,63 @@
+/* src/component/AllBooking.css */
+.table-container {
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 80%;
+}
+
+.table-title {
+    text-align: center;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.table {
+    background-color: rgb(202, 198, 198);
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th,
+.table td {
+    font-size: medium;
+    border: 1px solid #000000;
+    padding: 8px;
+    text-align: center;
+}
+
+.table th {
+      font-weight: bold;
+    color: #000000;
+  }
+  
+  .table tr:nth-child(even) {
+    background-color: #9b9a9a;
+}
+
+.table tr:hover {
+    background-color: #e2e2e2;
+}
+
+.table td {
+      background-color: #e1dcdc;
+    font-size: 16px;
+  }
+  
+  .table .actions {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .table .actions button {
+    margin-right: 10px;
+  }
+  .AllBo_sri
+  {
+      background-image: url("https://files.123freevectors.com/wp-content/original/142925-cool-purple-business-background-template.jpg") ;
+      background-size:cover;
+      height:650px;
+      background-color:rgb(24, 24, 24);
+  }
+    

@@ -1,0 +1,51 @@
+
+.imag69
+{
+    /* background-color:blue ; */
+    justify-content: center;
+}
+
+.ros {
+    font-style: unset;
+    padding: 20px;
+    padding-top: 120px;
+    padding-left: 200px;
+}
+
+#mynavbar {
+    /* background-color:rgba(96, 2, 96, 0.721); */
+  
+      flex-wrap: wrap;
+      display: flex;
+      
+    }
+    #mynavbars {
+        margin: 1rem;
+        
+        display: flex;
+   
+  }
+  
+  #mynavbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  #mynavbar li {
+    margin: 10px;
+  }
+  
+  @media (max-width: 600px) {
+    #mynavbar ul {
+      flex-direction: column;
+    }
+  
+    .imag69 {
+      height: 200px; /* Adjust as needed for smaller screens */
+    }
+  }
+  
